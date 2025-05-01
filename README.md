@@ -26,7 +26,7 @@ While developing you may want the server to reload after changes in package file
 
     $ gearbox serve --reload --debug
 
-Then you are ready to go.
+Then you are ready to go!
 
 ## Reference
 
@@ -35,3 +35,4 @@ Amino Acid Molecular Weight: [ThermoFisher](https://www.thermofisher.com/us/en/h
 Cleavage rules: [PeptideMass](https://web.expasy.org/peptide_mass/peptide-mass-doc.html#table1)
 
 GitHub: [ProteinDigest](https://github.com/LongweiZh/ProteinDigest)
+
